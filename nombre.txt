@@ -1,10 +1,10 @@
-Smartphone
-Laptop
-Auriculares
-Monitor
-Teclado
-Mouse
-Cámara
-Impresora
-TV Samsung
+Smartphone	
+Laptop		
+Auriculares	
+Monitor		
+Teclado		
+Mouse		
+Cámara		
+Impresora	
+TV Samsung	
 Consola
